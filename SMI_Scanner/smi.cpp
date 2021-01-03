@@ -1,14 +1,3 @@
-/*
-	Davicom Products SMI access library
-	Author: Russell Liu
-	Copyright: GPL V2
-	
-	This library provide a SMI access to read/write register 
-	from/to the DMavicom products with SMI.
-	
-	2014-9-18 <russell_liu@davicom.com.tw>
-*/
-
 #include "Arduino.h"
 #include "smi.h"
 
